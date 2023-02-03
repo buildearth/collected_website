@@ -1,0 +1,33 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "[雨中学圃堂]",
+      "url": "https://scholar.coolchong.cn/",
+      "avatar": "http://cdn.coolchong.cn/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/langwenchong.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "hermitlee",
+      "url": "https://www.hermitlsr.top",
+      "avatar": "https://fastly.jsdelivr.net/gh/hermitlsr/image-for-hermitlsr.top/web/rickavatar.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "MerryJingle",
+      "url": "https://blog.pengfeima.cn/",
+      "avatar": "https://blog.pengfeima.cn/img/portrait.png",
+      "screenshot": "https://githubimages.pengfeima.cn/images/compressed/202211172254234.webp",
+      "description": ""
+    },
+    {
+      "title": "Stellar主题大佬",
+      "url": "https://xaoxuu.com/",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": "Stellar主题创造者"
+    }
+  ]
+}
